@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **pratiksha411998@gmail.com**
 
-- ⚡ Fun fact **I love tab over spaces   : ) **
+- ⚡ Fun fact **I love debugging over checking log files   : ) **
 
 <br/>
 
