@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pratiksha0401](https://github.com/Pratiksha0401)
 
-- 💬 Ask me about **Spring boot, React JS, PHP, Golang**
+- 💬 Ask me about **Java, Spring boot, React JS, PHP, Golang**
 
 - 📫 How to reach me **pratiksha411998@gmail.com**
 
