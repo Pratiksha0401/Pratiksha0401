@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://cdn.dribbble.com/users/2131993/screenshots/15641588/media/0ced4fa58f04d8c855c082d8c8738eb1.png?compress=1&resize=400x300" width="400" height="300"></h1>
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100" height="100">, I'm Pratiksha Nagoshe</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate Backend developer</h3>
 <br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratiksha0401" alt="pratiksha0401" /></a> </p>
